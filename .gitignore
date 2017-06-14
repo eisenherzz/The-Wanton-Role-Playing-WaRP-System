@@ -1,0 +1,12 @@
+*.pdf
+*.aux
+*.log
+*.lot
+*.out
+*.toc
+*.odg
+*.html
+*.tex
+*.epub
+*.odt
+.directory
