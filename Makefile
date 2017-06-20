@@ -2,7 +2,7 @@
 MEXT = md
 
 ## All markdown files in the working directory
-SRC = $(wildcard *.$(MEXT))
+SRC = $(wildcard WaRP*.$(MEXT))
 
 
 PDF=$(SRC:.md=.pdf)
