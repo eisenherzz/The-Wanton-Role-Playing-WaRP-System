@@ -40,3 +40,29 @@ Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 WaRP System Reference Document, Copyright 2012 John A. Nephew. Published under license by Trident, Inc. d/b/a Atlas Games; Authors Jonathan Tweet with Robin D. Laws; Editor Michelle Nephew.  
 WaRP System Logo, Copyright 2012 Trident, Inc. d/b/a Atlas Games; Designer Michelle Nephew.  
 END OF LICENSE  
+
+
+## Glossary
+**Bonus Die** — An extra die rolled with the normal dice for an attempted action when the character has some advantage. Drop out the lowest die before tallying the total for the roll.
+
+**Experience Pool** — The number of dice that a character can use as bonus dice each game. They double as a measure of experience and can be “spent” to improve traits or develop new traits.
+
+**Fringe Powers** — Powers not readily recognized as possible by the mundane world, including abilities that could be classified as psychic or magical.
+
+**Game Moderator (GM)** — the person who coordinates the series (i.e. “gamemaster”).
+
+**GMC** — Game Moderator Character (i.e. NPC, or non-player-character), a character run by the game moderator.
+
+**Hit Points** — A measure of a character’s ability to take damage and punishment. If reduced to 0 hit points, you’re down and out of the fight. A character deep in the negatives is either dead or will die without medical care.
+
+**Round** — In combat, or other intense encounters, a unit of time in which a character can generally take one action. Represents about 3 seconds of time in the game world.
+
+**Penalty Die** — An extra die rolled with the normal dice when the character has some disadvantage. Drop out the highest die before totalling the roll.
+
+**PC** — Player character, a character run by one of the players.
+
+**Psychic Pool** — Represents how often a character can use psychic or fringe powers.
+
+**Series** — a string of related game sessions, a “campaign.”
+
+**Trait** — A feature of a character, representing a skill, personal characteristic, fringe power, talent, or aspect of one’s background. Traits are usually good, but some (called “flaws”) are bad.
