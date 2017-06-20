@@ -74,14 +74,14 @@ END OF LICENSE
 ### Character Checklist
 Your character includes:  
 
-* Concept
-* Traits & Signs *
-* Hit Points
-* Experience Pool **
-* Motivation
-* Secret
-* Important Person
-* Name, Background, Equipment, Finances, etc.  
+* **_Concept_**
+* **_Traits & Signs_** *
+* **_Hit Points_**
+* **_Experience Pool_** **
+* **_Motivation_**
+* **_Secret_**
+* **_Important Person_**
+* **_Name, Background, Equipment, Finances, etc._**
 
 \* central trait and two side traits (one of these is your superior trait); one flaw; a sign for each trait (including the flaw).  
 \**  Your experience pool starts as one die.  
