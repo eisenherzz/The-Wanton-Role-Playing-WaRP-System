@@ -1,3 +1,6 @@
+% WaRP System
+% Atlas Games
+%
 # WaRP System
 ### Reference Document • Version 1.0
 ## Legal Information
@@ -66,3 +69,39 @@ END OF LICENSE
 **Series** — a string of related game sessions, a “campaign.”
 
 **Trait** — A feature of a character, representing a skill, personal characteristic, fringe power, talent, or aspect of one’s background. Traits are usually good, but some (called “flaws”) are bad.
+
+## Rules Overview
+### Character Checklist
+Your character includes:  
+
+* Concept
+* Traits & Signs *
+* Hit Points
+* Experience Pool **
+* Motivation
+* Secret
+* Important Person
+* Name, Background, Equipment, Finances, etc.  
+
+\* central trait and two side traits (one of these is your superior trait); one flaw; a sign for each trait (including the flaw).  
+\**  Your experience pool starts as one die.  
+
+### Mechanics
+When you use a trait, you roll a number of dice equal to its score (usually three dice, or four dice for your superior trait).
+
+If you get a **bonus die** (by having some advantage), you roll an extra die along with your normal dice and then drop the lowest die out of the bunch. If you have to roll a **penalty die** (from having some disadvantage), roll an extra die along with your normal ones, but drop out the highest one.
+
+You compare your roll vs. that made by the GM, usually representing a GMC’s traits. You succeed if you beat the GM’s roll or the **difficulty factor** she assigns.
+
+####Sample Difficulty Factors
+
+  **Task**       **Difficulty Factor**   **_or_**   **Dice to Roll**
+-------------   ----------------------- ---------- ------------------
+Easy                    4                                   1
+Moderate                7                                   2
+Hard                    11                                  3
+Really Difficult        14                                  4
+Near Impossible         18+                               5 or 6
+
+### Your Experience Pool
+You can use the die in your **experience pool** to improve one roll per game session. Once you use the experience die, you cannot use it again in that session. The dice from your experience pool act as a bonus dice. As you play, you can acquire more dice for your pool.
