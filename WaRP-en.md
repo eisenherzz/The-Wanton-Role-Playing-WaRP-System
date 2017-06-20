@@ -42,6 +42,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.  
 WaRP System Reference Document, Copyright 2012 John A. Nephew. Published under license by Trident, Inc. d/b/a Atlas Games; Authors Jonathan Tweet with Robin D. Laws; Editor Michelle Nephew.  
 WaRP System Logo, Copyright 2012 Trident, Inc. d/b/a Atlas Games; Designer Michelle Nephew.  
+
 END OF LICENSE  
 
 
