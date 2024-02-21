@@ -20,21 +20,21 @@ tex:	clean $(TEX)
 epub:	clean $(EPUB)
 odt:	clean $(ODT)
 
+%.pdf:	%.md
+	pandoc -V geometry:margin=2cm -o $@ $<
+	
 %.html:	%.md
-	pandoc -S -o $@ $<
+	pandoc -o $@ $<
 
 %.tex:	%.md
-	pandoc -S -o $@ $<
+	pandoc -o $@ $<
 	
 %.epub:	%.md
-	pandoc -S -o $@ $<
+	pandoc -o $@ $<
 
 %.odt:	%.md
-	pandoc -S -o $@ $<
-
-%.pdf:	%.md
-	pandoc -V geometry:margin=2cm -S -o $@ $<
+	pandoc -o $@ $<
 
 clean:
-	rm -f *.html *.pdf *.tex *.epub *.odt
+	rm -f *.pdf *.html *.tex *.epub *.odt
  

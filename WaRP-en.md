@@ -77,16 +77,14 @@ END OF LICENSE
 Your character includes:  
 
 * **_Concept_**
-* **_Traits & Signs_** *
+* **_Traits & Signs_** (central trait and two side traits (one of these is your superior trait); one flaw; a sign for each trait (including the flaw).)
 * **_Hit Points_**
-* **_Experience Pool_** **
+* **_Experience Pool_** (Your experience pool starts as one die.)
 * **_Motivation_**
 * **_Secret_**
 * **_Important Person_**
 * **_Name, Background, Equipment, Finances, etc._**
 
-\* central trait and two side traits (one of these is your superior trait); one flaw; a sign for each trait (including the flaw).  
-\**  Your experience pool starts as one die.  
 
 ### Mechanics
 When you use a trait, you roll a number of dice equal to its score (usually three dice, or four dice for your superior trait).
@@ -95,7 +93,7 @@ If you get a **bonus die** (by having some advantage), you roll an extra die alo
 
 You compare your roll vs. that made by the GM, usually representing a GMC’s traits. You succeed if you beat the GM’s roll or the **difficulty factor** she assigns.
 
-####Sample Difficulty Factors
+#### Sample Difficulty Factors
 
   **Task**       **Difficulty Factor**   **_or_**   **Dice to Roll**
 -------------   ----------------------- ---------- ------------------
